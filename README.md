@@ -12,6 +12,7 @@ This repository is a collection of solved problems from various platforms like L
 The repository is organized into the following folders:
 
 1. Recursion: Contains solutions of LeetCode problems (recursion).
+2. Arrays: 
 
 ## Solution Structure
 
