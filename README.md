@@ -1,22 +1,21 @@
-# DSA Solved Problems
+# DSA
 
-Welcome to the DSA Solved Problems repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems. The problems are organized into different categories for easy navigation.
+Welcome to the leetcode_dsa repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems.
 
-This repository is owned and managed by Ranvijay Singh.
 
 ## Introduction
 
-This repository is a collection of solved problems from various platforms like LeetCode, GeeksforGeeks, and others. Each problem is solved with optimal code and includes detailed comments to help you understand the solution.
+This repository is a collection of solved problems from various platforms like LeetCode. Contains question number of many LeetCode questions in specific order.
 
-## Folder Structure
+## Structure
 
 The repository is organized into the following folders:
 
-1. Recursion: Contains problems that are solved using recursion.
+1. Recursion: Contains solutions of LeetCode problems (recursion).
 
 ## Solution Structure
 
-Each folder contains multiple solved problems. The structure of solution is as follows:
+Each folder contains multiple solved problems. The structure of solution follows:
 
 1. Question
 2. Main class
