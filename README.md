@@ -1,6 +1,6 @@
 # DSA
 
-Welcome to the leetcode_dsa repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems.
+Welcome to the leetcode_dsa repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems from LeetCode.
 
 
 ## Introduction
